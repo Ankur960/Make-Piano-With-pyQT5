@@ -29,7 +29,9 @@ The CL Piano application is a PyQt5 program that simulates a piano interface on 
 5. Click on the white or black buttons to play the corresponding musical notes. Alternatively, you can use the following keyboard keys:
    - White keys: Q, W, E, R, T, Y, U, I
    - Black keys: A, S, D, F, G, H, J
-mq2.jpg
+## Screenshots
+
+![pyQt5 piano](mq2.jpg)
 ## Additional Notes
 - The program uses `pygame.mixer` to play the musical notes. Make sure you have audio files (in WAV format) for the notes at the specified file paths in the code. Adjust the file paths if necessary.
 
